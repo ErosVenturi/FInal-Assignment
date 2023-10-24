@@ -1,4 +1,4 @@
-!pip install yfinance==0.2.4 yfinance already installed
+!pip install yfinance==0.2.4
 import yfinance as yf
 import pandas as pd
 tesla = yf.Ticker("TSLA")
